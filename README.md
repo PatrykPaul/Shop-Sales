@@ -83,6 +83,7 @@ The dashboard is divided into three key sections:
 
 **Preview of Filters Panel**:
 ![Filters](https://github.com/PatrykPaul/Shop-Sales/blob/main/images/filters_1.png)
+![Filters](https://github.com/PatrykPaul/Shop-Sales/blob/main/images/filters_2.png)
 
 ---
 
