@@ -85,26 +85,4 @@ The dashboard is divided into three key sections:
 ![Filters](https://github.com/PatrykPaul/Shop-Sales/blob/main/images/filters_1.png)
 ![Filters](https://github.com/PatrykPaul/Shop-Sales/blob/main/images/filters_2.png)
 
----
 
-## 📖 **How to Use the Dashboard**
-1. **Download and Open**:
-   - Download the `.pbix` file from this repository.
-   - Open it in Power BI Desktop.
-2. **Explore Insights**:
-   - Navigate through the three pages of the dashboard to analyze sales data, customer trends, and product performance.
-   - Use interactive slicers to filter data dynamically and gain focused insights.
-3. **Business Applications**:
-   - Identify top-performing product lines and cities.
-   - Understand customer purchasing behavior by gender, membership, and payment method.
-   - Track sales trends to make informed business decisions.
-
----
-
-
-## 🚀 **Future Enhancements**
-- Integrate data from additional months or years to identify long-term trends.
-- Add advanced predictive analytics using machine learning to forecast future sales.
-- Include profitability analysis for individual products.
-
----
